@@ -12,9 +12,9 @@
 								<div class="posts__item posts__item--card posts__item--category-1 posts__item--category-4  card">
 									<figure class="posts__thumb">
 										<div class="posts__cat">
-											<span class="label posts__cat-label posts__cat-label--category-1"></span><span class="label posts__cat-label posts__cat-label--category-4"></span>
+											<span class="label posts__cat-label posts__cat-label--category-1">PSB</span><span class="label posts__cat-label posts__cat-label--category-4">Tournament</span>
 										</div>
-										<a href="_esports_blog-post-1.html"><img src="assets/images/esports/samples/post-img1.jpg" alt=""></a>
+										<a href="_esports_blog-post-1.html"><img src="../assets/images/esports/samples/post-img1.jpg" alt=""></a>
 									</figure>
 									<div class="posts__inner card__content">
 										<a href="_esports_blog-post-1.html" class="posts__cta"></a>
@@ -27,7 +27,7 @@
 									<footer class="posts__footer card__footer">
 										<div class="post-author">
 											<figure class="post-author__avatar">
-												<img src="assets/images/samples/avatar-12-xs.jpg" alt="Post Author Avatar">
+												<img src="../assets/images/samples/avatar-12-xs.jpg" alt="Post Author Avatar">
 											</figure>
 											<div class="post-author__info">
 												<h4 class="post-author__name">PlanetsideBattles</h4>
@@ -45,9 +45,9 @@
 								<div class="posts__item posts__item--card posts__item--category-2  card">
 									<figure class="posts__thumb">
 										<div class="posts__cat">
-											<span class="label posts__cat-label posts__cat-label--category-2">PIL Invitational</span>
+											<span class="label posts__cat-label posts__cat-label--category-2">PIL</span>
 										</div>
-										<a href="_esports_blog-post-1.html"><img src="assets/images/esports/samples/post-img2.jpg" alt=""></a>
+										<a href="_esports_blog-post-1.html"><img src="../assets/images/esports/samples/post-img2.jpg" alt=""></a>
 									</figure>
 									<div class="posts__inner card__content">
 										<a href="_esports_blog-post-1.html" class="posts__cta"></a>
@@ -60,7 +60,7 @@
 									<footer class="posts__footer card__footer">
 										<div class="post-author">
 											<figure class="post-author__avatar">
-												<img src="assets/images/samples/avatar-6-xs.jpg" alt="Post Author Avatar">
+												<img src="../assets/images/samples/avatar-6-xs.jpg" alt="Post Author Avatar">
 											</figure>
 											<div class="post-author__info">
 												<h4 class="post-author__name">PIL </h4>
@@ -93,7 +93,7 @@
 									<a href="#" class="twitch-stream twitch-stream--featured twitch-stream--has-video card">
 										<div class="twitch-stream__overlay twitch-stream__overlay--bg0 effect-duotone effect-duotone--base"></div>
 										<figure class="twitch-stream__img twitch-stream__img--extra-top">
-											<img src="assets/images/esports/samples/twitch-streamer-1.png" alt="">
+											<img src="../assets/images/esports/samples/twitch-streamer-1.png" alt="">
 										</figure>
 										<div class="twitch-stream__body">
 											<h6 class="twitch-stream__featured">Featured Stream</h6>
@@ -109,7 +109,7 @@
 						
 									<div class="twitch-stream-video card">
 										<div class="card__content">
-											<div class="alc-embeded-player" data-id="amaz" data-controls="false" data-provider="twitch" data-thumbnail="assets/images/esports/samples/twitch-stream-cover.jpg" data-easy-embed>
+											<div class="alc-embeded-player" data-id="amaz" data-controls="false" data-provider="twitch" data-thumbnail="../assets/images/esports/samples/twitch-stream-cover.jpg" data-easy-embed>
 												<div class="alc-embeded-player__overlay">
 													<i class="fa fa-play alc-embeded-player__icon"></i>
 												</div>
@@ -125,7 +125,7 @@
 									<a href="#" class="twitch-stream   card">
 										<div class="twitch-stream__overlay twitch-stream__overlay--bg2 effect-duotone effect-duotone--base"></div>
 										<figure class="twitch-stream__img ">
-											<img src="assets/images/esports/samples/twitch-streamer-3.png" alt="">
+											<img src="../assets/images/esports/samples/twitch-streamer-3.png" alt="">
 										</figure>
 										<div class="twitch-stream__body">
 											<h5 class="twitch-stream__title">PIL</h5>
@@ -171,7 +171,7 @@
 											<ul class="posts posts--simple-list">
 												<li class="posts__item posts__item--category-3 ">
 													<figure class="posts__thumb posts__thumb--hover">
-														<a href="_esports_blog-post-1.html"><img src="assets/images/esports/samples/post-img8-sidebar-xs.jpg" alt=""></a>
+														<a href="_esports_blog-post-1.html"><img src="../assets/images/esports/samples/post-img8-sidebar-xs.jpg" alt=""></a>
 													</figure>
 													<div class="posts__inner">
 														<div class="posts__cat">
@@ -183,7 +183,7 @@
 												</li>
 												<li class="posts__item posts__item--category-1 posts__item--category-4 ">
 													<figure class="posts__thumb posts__thumb--hover">
-														<a href="_esports_blog-post-1.html"><img src="assets/images/esports/samples/post-img1-sidebar-xs.jpg" alt=""></a>
+														<a href="_esports_blog-post-1.html"><img src="../assets/images/esports/samples/post-img1-sidebar-xs.jpg" alt=""></a>
 													</figure>
 													<div class="posts__inner">
 														<div class="posts__cat">
@@ -195,7 +195,7 @@
 												</li>
 												<li class="posts__item posts__item--category-1 ">
 													<figure class="posts__thumb posts__thumb--hover">
-														<a href="_esports_blog-post-1.html"><img src="assets/images/esports/samples/post-img6-sidebar-xs.jpg" alt=""></a>
+														<a href="_esports_blog-post-1.html"><img src="../assets/images/esports/samples/post-img6-sidebar-xs.jpg" alt=""></a>
 													</figure>
 													<div class="posts__inner">
 														<div class="posts__cat">
