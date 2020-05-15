@@ -19,21 +19,14 @@
 													<div class="row">
 														<div class="col">
 															<ul class="widget__list">
-																<li><a href="_esports_index.html">Home</a></li>
-																<li><a href="_esports_blog-1.html">News Page</a></li>
-																<li><a href="_esports_blog-post-1.html">Post Page</a></li>
-																<li><a href="_esports_team-overview.html">Teams</a></li>
-																<li><a href="_esports_team-last-results.html">Team Stats</a></li>
-																<li><a href="_esports_team-roster.html">Roster</a></li>
-																<li><a href="_esports_event-tournament.html">Tournament</a></li>
+																<li><a href="">Home</a></li>
+
 															</ul>
 														</div>
 														<div class="col">
 															<ul class="widget__list">
-																<li><a href="_esports_team-player.html">Player Bio</a></li>
-																<li><a href="_esports_event-overview-1a.html">Match Stats</a></li>
-																<li><a href="_esports_event-overview-1a.html">Live Stream</a></li>
-																<li><a href="_esports_team-gallery.html">Gallery</a></li>
+																<li><a href="">Events</a></li>
+
 															</ul>
 														</div>
 													</div>
@@ -64,12 +57,9 @@
 												<h4 class="widget__title">About Us</h4>
 												<div class="widget__content">
 													<ul class="widget__list">
-														<li><a href="_esports_page-contacts.html">Contact</a></li>
-														<li><a href="_esports_page-faqs.html">FAQs</a></li>
-														<li><a href="_esports_page-sponsors.html">Sponsors</a></li>
-														<li><a href="_esports_team-schedule.html">Next Events</a></li>
-														<li><a href="_esports_blog-post-3.html">Guides</a></li>
-														<li><a href="_esports_shop-login.html">Register/Login</a></li>
+														<li><a href="">Contact</a></li>
+														<li><a href="">FAQs</a></li>
+														<li><a href="">Register/Login</a></li>
 														<li><a href="#">Privacy Policy</a></li>
 													</ul>
 												</div>
