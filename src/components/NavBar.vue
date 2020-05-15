@@ -9,7 +9,7 @@
 		
 						<!-- Header Logo -->
 						<div class="header-logo">
-							<a href=""><img src="../assets/images/LaneSmash.png" srcset="../assets/images/LaneSmash.png 4x" alt="JaegerEvents" class="header-logo__img"></a>
+							<a href=""><img src="../assets/images/jaeger/OvO-sm.png" srcset="../assets/images/jaeger/OvO-sm.png" alt="JaegerEvents" class="header-logo__img"></a>
 						</div>
 						<!-- Header Logo / End -->
 		
