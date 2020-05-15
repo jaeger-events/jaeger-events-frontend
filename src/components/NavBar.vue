@@ -16,17 +16,17 @@
 						<!-- Main Navigation -->
 						<nav class="main-nav">
 							<ul class="main-nav__list">
-								<li class="active"><a href="">Home</a>
+								<li class="active"><router-link to="/">Home</router-link>
 
 								</li>
-								<li class=""><a href="#">Events</a>
+								<li class=""><router-link to="/">Events</router-link>
 
 								</li>
-								<li class=""><a href="">Calendar</a>
+								<li class=""><router-link to="/">Calendar</router-link>
 
 								</li>
 								<li class="">
-									<a href="">About</a>
+									<router-link to="/">About</router-link>
 								</li>
 						
 						

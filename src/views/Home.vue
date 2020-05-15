@@ -82,67 +82,12 @@
 						<!-- Posts Area #2 -->
 						<!-- Posts Grid -->
 						<div class="posts posts--cards post-grid post-grid--2cols row">
-		
+		            <WidgetEventCalendar></WidgetEventCalendar>
+
 		
 						</div>
 						<!-- Post Grid / End -->
-            							<div class="twitch-streams">
-						
-								<!-- Stream #0 -->
-								<div class="twitch-stream-wrapper">
-									<a href="#" class="twitch-stream twitch-stream--featured twitch-stream--has-video card">
-										<div class="twitch-stream__overlay twitch-stream__overlay--bg0 effect-duotone effect-duotone--base"></div>
-										<figure class="twitch-stream__img twitch-stream__img--extra-top">
-											<img src="../assets/images/esports/samples/twitch-streamer-1.png" alt="">
-										</figure>
-										<div class="twitch-stream__body">
-											<h6 class="twitch-stream__featured">Featured Stream</h6>
-											<h5 class="twitch-stream__title">PlanetsideBattles</h5>
-											<div class="twitch-stream__info"></div>
-						
-											<div class="twitch-stream__status twitch-stream__status--online">Live</div>
-						
-						
-						
-										</div>
-									</a>
-						
-									<div class="twitch-stream-video card">
-										<div class="card__content">
-											<div class="alc-embeded-player" data-id="amaz" data-controls="false" data-provider="twitch" data-thumbnail="../assets/images/esports/samples/twitch-stream-cover.jpg" data-easy-embed>
-												<div class="alc-embeded-player__overlay">
-													<i class="fa fa-play alc-embeded-player__icon"></i>
-												</div>
-											</div>
-										</div>
-									</div>
-						
-								</div>
-								<!-- Stream #0 / End -->
-
-								<!-- Stream #2 -->
-								<div class="twitch-stream-wrapper">
-									<a href="#" class="twitch-stream   card">
-										<div class="twitch-stream__overlay twitch-stream__overlay--bg2 effect-duotone effect-duotone--base"></div>
-										<figure class="twitch-stream__img ">
-											<img src="../assets/images/esports/samples/twitch-streamer-3.png" alt="">
-										</figure>
-										<div class="twitch-stream__body">
-											<h5 class="twitch-stream__title">PIL</h5>
-											<div class="twitch-stream__info"></div>
-						
-						
-											<div class="twitch-stream__status twitch-stream__status--scheduled">Starts in: <div class="twitch-stream__countdown-counter countdown-counter" data-date="June 18, 2020 21:00:00"></div></div>
-						
-										</div>
-									</a>
-						
-						
-								</div>
-								<!-- Stream #2 / End -->
-						
-						
-							</div>
+           
 						<!-- Posts Area #2 / End -->
 					</div>
 					<!-- Content / End -->
@@ -227,122 +172,65 @@
 						<!-- Widget: Trending News / End -->
 		
 						<!-- Widget: Events Calendar -->
-						<aside class="widget card card--no-paddings widget--sidebar widget-event-calendar">
-							<div class="widget__title card__header">
-								<h4>Events Calendar</h4>
-							</div>
-							<div class="widget__content card__content">
+            <div class="widget--sidebar">
+               							<div class="twitch-streams">
 						
-								<!-- Events Calendar -->
-								<div class="alc-event-calendar">
-									<table class="table">
-										<caption>
-											<span class="alc-event-calendar__caption-inner">
-												<span class="alc-event-calendar__caption-nav alc-event-calendar__caption-nav--prev">
-													<a href="#" class="alc-event-calendar__caption-nav-link"></a>
-												</span>
-												<span class="alc-event-calendar__caption-title">November 2018</span>
-												<span class="alc-event-calendar__caption-nav alc-event-calendar__caption-nav--next">
-													<a href="#" class="alc-event-calendar__caption-nav-link"></a>
-												</span>
-											</span>
-										</caption>
-										<thead>
-											<tr>
-												<th data-weekday-abbr="Mon"><span class="weekday">Mo</span></th>
-												<th data-weekday-abbr="Tue"><span class="weekday">Tu</span></th>
-												<th data-weekday-abbr="Wed"><span class="weekday">We</span></th>
-												<th data-weekday-abbr="Thu"><span class="weekday">Th</span></th>
-												<th data-weekday-abbr="Fri"><span class="weekday">Fr</span></th>
-												<th data-weekday-abbr="Sat"><span class="weekday">Sa</span></th>
-												<th data-weekday-abbr="Sun"><span class="weekday">Su</span></th>
-											</tr>
-										</thead>
-										<tbody>
-											<tr>
-												<td><span class="day day--muted">28</span></td>
-												<td><span class="day day--muted">29</span></td>
-												<td><span class="day day--muted">30</span></td>
-												<td><span class="day day--muted">31</span></td>
-												<td><span class="day">1</span></td>
-												<td><span class="day">2</span></td>
-												<td><span class="day">3</span></td>
-											</tr>
-											<tr>
-												<td><span class="day">4</span></td>
-												<td><span class="day">5</span></td>
-												<td><span class="day">6</span></td>
-												<td><span class="day">7</span></td>
-												<td><span class="day">8</span></td>
-												<td>
-													<span class="day day--active day--type-1">9</span>
-												</td>
-												<td><span class="day">10</span></td>
-											</tr>
-											<tr>
-												<td><span class="day">11</span></td>
-												<td><span class="day">12</span></td>
-												<td><span class="day">13</span></td>
-												<td><span class="day">14</span></td>
-												<td><span class="day">15</span></td>
-												<td><span class="day">16</span></td>
-												<td><span class="day">17</span></td>
-											</tr>
-											<tr>
-												<td><span class="day">18</span></td>
-												<td><span class="day">19</span></td>
-												<td>
-													<span class="day day--active day--type-4">20</span>
-												</td>
-												<td><span class="day">21</span></td>
-												<td><span class="day">22</span></td>
-												<td><span class="day">23</span></td>
-												<td><span class="day">24</span></td>
-											</tr>
-											<tr>
-												<td><span class="day">25</span></td>
-												<td><span class="day">26</span></td>
-												<td><span class="day">27</span></td>
-												<td><span class="day">28</span></td>
-												<td><span class="day">29</span></td>
-												<td><span class="day">30</span></td>
-												<td><span class="day day--muted">1</span></td>
-											</tr>
-										</tbody>
-									</table>
+								<!-- Stream #0 -->
+								<div class="twitch-stream-wrapper">
+									<a href="#" class="twitch-stream twitch-stream--featured twitch-stream--has-video card">
+										<div class="twitch-stream__overlay twitch-stream__overlay--bg0 effect-duotone effect-duotone--base"></div>
+										<figure class="twitch-stream__img twitch-stream__img--extra-top">
+											<img src="../assets/images/esports/samples/twitch-streamer-1.png" alt="">
+										</figure>
+										<div class="twitch-stream__body">
+											<h6 class="twitch-stream__featured">Featured Stream</h6>
+											<h5 class="twitch-stream__title">PlanetsideBattles</h5>
+											<div class="twitch-stream__info"></div>
+						
+											<div class="twitch-stream__status twitch-stream__status--online">Live</div>
+						
+						
+						
+										</div>
+									</a>
+						
+									<div class="twitch-stream-video card">
+										<div class="card__content">
+											<div class="alc-embeded-player" data-id="amaz" data-controls="false" data-provider="twitch" data-thumbnail="../assets/images/esports/samples/twitch-stream-cover.jpg" data-easy-embed>
+												<div class="alc-embeded-player__overlay">
+													<i class="fa fa-play alc-embeded-player__icon"></i>
+												</div>
+											</div>
+										</div>
+									</div>
+						
 								</div>
-								<!-- Events Calendar / End -->
+								<!-- Stream #0 / End -->
+
+								<!-- Stream #2 -->
+								<div class="twitch-stream-wrapper">
+									<a href="#" class="twitch-stream   card">
+										<div class="twitch-stream__overlay twitch-stream__overlay--bg2 effect-duotone effect-duotone--base"></div>
+										<figure class="twitch-stream__img ">
+											<img src="../assets/images/esports/samples/twitch-streamer-3.png" alt="">
+										</figure>
+										<div class="twitch-stream__body">
+											<h5 class="twitch-stream__title">PIL</h5>
+											<div class="twitch-stream__info"></div>
 						
-								<!-- Events List -->
-								<ul class="alc-event-list list-unstyled">
-									<li class="alc-event-list__item alc-event-list-item alc-event-list-item--type-1">
-										<div class="alc-event-list-item__header">
-											<time class="alc-event-list-item__date">Friday, September 9th</time>
+						
+											<div class="twitch-stream__status twitch-stream__status--scheduled">Starts in: <div class="twitch-stream__countdown-counter countdown-counter" data-date="June 18, 2020 21:00:00"></div></div>
+						
 										</div>
-										<div class="alc-event-list-item__body">
-											<div class="alc-event-list-item__time">09:00 PM</div>
-											<div class="alc-event-list-item__info">
-												<h6 class="alc-event-list-item__title"><a href="_esports_event-overview-1a.html">Game Huntress "Inktoon 2" Stream</a></h6>
-												<p class="alc-event-list-item__desc">Join me to play the multiplayer</p>
-											</div>
-										</div>
-									</li>
-									<li class="alc-event-list__item alc-event-list-item alc-event-list-item--type-4">
-										<div class="alc-event-list-item__header">
-											<time class="alc-event-list-item__date">Tuesday, September 20th</time>
-										</div>
-										<div class="alc-event-list-item__body">
-											<div class="alc-event-list-item__time">11:00 PM</div>
-											<div class="alc-event-list-item__info">
-												<h6 class="alc-event-list-item__title"><a href="_esports_event-overview-1b.html">Xenowatch Patch 5.6 Update Release</a></h6>
-												<p class="alc-event-list-item__desc">Bug fixes and a new character!</p>
-											</div>
-										</div>
-									</li>
-								</ul>
-								<!-- Events List / End -->
+									</a>
+						
+						
+								</div>
+								<!-- Stream #2 / End -->
+						
+						
 							</div>
-						</aside>
+            </div>
 						<!-- Widget: Events Calendar / End -->
 		
 					</div>
@@ -352,12 +240,12 @@
 </template>
 
 <script>
-// @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
 
+import WidgetEventCalendar from '../components/widgets/Widget-Event-Calendar';
 export default {
   name: 'Home',
   components: {
+    WidgetEventCalendar
   }
 }
 </script>
