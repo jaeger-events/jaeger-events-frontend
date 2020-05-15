@@ -12,14 +12,14 @@
 								<div class="posts__item posts__item--card posts__item--category-1 posts__item--category-4  card">
 									<figure class="posts__thumb">
 										<div class="posts__cat">
-											<span class="label posts__cat-label posts__cat-label--category-1">The Team</span><span class="label posts__cat-label posts__cat-label--category-4">Xenowatch</span>
+											<span class="label posts__cat-label posts__cat-label--category-1"></span><span class="label posts__cat-label posts__cat-label--category-4"></span>
 										</div>
 										<a href="_esports_blog-post-1.html"><img src="assets/images/esports/samples/post-img1.jpg" alt=""></a>
 									</figure>
 									<div class="posts__inner card__content">
 										<a href="_esports_blog-post-1.html" class="posts__cta"></a>
 										<time datetime="2018-08-23" class="posts__date">August 27th, 2018</time>
-										<h6 class="posts__title posts__title--color-hover"><a href="_esports_blog-post-1.html">The Alchemists reach to the Xenowatch finals</a></h6>
+										<h6 class="posts__title posts__title--color-hover"><a href="_esports_blog-post-1.html">Lanesmash2020 Week 3</a></h6>
 										<div class="posts__excerpt">
 											Lorem ipsum dolor sit amet, consectetur adipisi nela elit, sed do eiusmod tempore der incididunt.
 										</div>
@@ -30,7 +30,7 @@
 												<img src="assets/images/samples/avatar-12-xs.jpg" alt="Post Author Avatar">
 											</figure>
 											<div class="post-author__info">
-												<h4 class="post-author__name">Erick Rodgers</h4>
+												<h4 class="post-author__name">PlanetsideBattles</h4>
 											</div>
 										</div>
 										<ul class="post__meta meta">
@@ -45,14 +45,14 @@
 								<div class="posts__item posts__item--card posts__item--category-2  card">
 									<figure class="posts__thumb">
 										<div class="posts__cat">
-											<span class="label posts__cat-label posts__cat-label--category-2">L.O. Heroes</span>
+											<span class="label posts__cat-label posts__cat-label--category-2">PIL Invitational</span>
 										</div>
 										<a href="_esports_blog-post-1.html"><img src="assets/images/esports/samples/post-img2.jpg" alt=""></a>
 									</figure>
 									<div class="posts__inner card__content">
 										<a href="_esports_blog-post-1.html" class="posts__cta"></a>
 										<time datetime="2018-08-23" class="posts__date">August 23rd, 2018</time>
-										<h6 class="posts__title posts__title--color-hover"><a href="_esports_blog-post-1.html">A new mage character is coming to the league</a></h6>
+										<h6 class="posts__title posts__title--color-hover"><a href="_esports_blog-post-1.html">PIL Invitational</a></h6>
 										<div class="posts__excerpt">
 											Lorem ipsum dolor sit amet, consectetur adipisi nela elit, sed do eiusmod tempore der incididunt.
 										</div>
@@ -63,7 +63,7 @@
 												<img src="assets/images/samples/avatar-6-xs.jpg" alt="Post Author Avatar">
 											</figure>
 											<div class="post-author__info">
-												<h4 class="post-author__name">Lagertha Dax</h4>
+												<h4 class="post-author__name">PIL </h4>
 											</div>
 										</div>
 										<ul class="post__meta meta">
@@ -97,10 +97,11 @@
 										</figure>
 										<div class="twitch-stream__body">
 											<h6 class="twitch-stream__featured">Featured Stream</h6>
-											<h5 class="twitch-stream__title">Destroy Plays Xenowatch</h5>
-											<div class="twitch-stream__info">Joined by Kelly and Saki</div>
+											<h5 class="twitch-stream__title">PlanetsideBattles</h5>
+											<div class="twitch-stream__info"></div>
 						
 											<div class="twitch-stream__status twitch-stream__status--online">Live</div>
+						
 						
 						
 										</div>
@@ -118,26 +119,7 @@
 						
 								</div>
 								<!-- Stream #0 / End -->
-								<!-- Stream #1 -->
-								<div class="twitch-stream-wrapper">
-									<a href="#" class="twitch-stream   card">
-										<div class="twitch-stream__overlay twitch-stream__overlay--bg1 effect-duotone effect-duotone--base"></div>
-										<figure class="twitch-stream__img ">
-											<img src="assets/images/esports/samples/twitch-streamer-2.png" alt="">
-										</figure>
-										<div class="twitch-stream__body">
-											<h5 class="twitch-stream__title">Assassins League Gameplay</h5>
-											<div class="twitch-stream__info">We start the adventure mode!</div>
-						
-											<div class="twitch-stream__status twitch-stream__status--online">Live</div>
-						
-						
-										</div>
-									</a>
-						
-						
-								</div>
-								<!-- Stream #1 / End -->
+
 								<!-- Stream #2 -->
 								<div class="twitch-stream-wrapper">
 									<a href="#" class="twitch-stream   card">
@@ -146,8 +128,8 @@
 											<img src="assets/images/esports/samples/twitch-streamer-3.png" alt="">
 										</figure>
 										<div class="twitch-stream__body">
-											<h5 class="twitch-stream__title">League of Heroes: Ether Quest</h5>
-											<div class="twitch-stream__info">I’m gonna take the hardest quest</div>
+											<h5 class="twitch-stream__title">PIL</h5>
+											<div class="twitch-stream__info"></div>
 						
 						
 											<div class="twitch-stream__status twitch-stream__status--scheduled">Starts in: <div class="twitch-stream__countdown-counter countdown-counter" data-date="June 18, 2020 21:00:00"></div></div>
@@ -158,26 +140,6 @@
 						
 								</div>
 								<!-- Stream #2 / End -->
-								<!-- Stream #3 -->
-								<div class="twitch-stream-wrapper">
-									<a href="#" class="twitch-stream   card">
-										<div class="twitch-stream__overlay twitch-stream__overlay--bg3 effect-duotone effect-duotone--base"></div>
-										<figure class="twitch-stream__img ">
-											<img src="assets/images/esports/samples/twitch-streamer-4.png" alt="">
-										</figure>
-										<div class="twitch-stream__body">
-											<h5 class="twitch-stream__title">The Game Huntress&#x27;s Channel</h5>
-											<div class="twitch-stream__info">Join me to hunt them all!</div>
-						
-						
-						
-											<div class="twitch-stream__status twitch-stream__status--offline">Offline</div>
-										</div>
-									</a>
-						
-						
-								</div>
-								<!-- Stream #3 / End -->
 						
 						
 							</div>
