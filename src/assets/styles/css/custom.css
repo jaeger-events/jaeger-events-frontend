@@ -9239,12 +9239,15 @@ input.header-mobile__search-control:focus {
 }
 
 .hero-slider__item--img1 {
+  background-image: url("../../images/soccer/samples/hero-slide-1.jpg");
 }
 
 .hero-slider__item--img2 {
+  background-image: url("../../images/soccer/samples/hero-slide-2.jpg");
 }
 
 .hero-slider__item--img3 {
+  background-image: url("../../images/soccer/samples/hero-slide-3.jpg");
 }
 
 .hero-slider__item-container {
@@ -17827,6 +17830,7 @@ td.team-leader__avg {
 }
 
 .team-stats-box--cell-bg {
+  background-image: url("../../images/football/graph-bg.png"), linear-gradient(to right, rgba(75, 59, 96, 0.4) 1px, transparent 1px), linear-gradient(to bottom, rgba(75, 59, 96, 0.4) 1px, transparent 1px);
   background-repeat: no-repeat, repeat-x, repeat-y;
   background-size: auto auto, 15px 100%, 100% 15px;
   background-position: 50% 100%, -7px 0, 0 5px;
@@ -19252,6 +19256,7 @@ td.team-leader__avg {
   top: 0;
   bottom: 0;
   right: 0;
+  background-image: url("../../images/soccer/rosterv3_player_01-bg.png");
   background-position: 0 0;
   background-repeat: no-repeat;
   background-size: cover;
@@ -20087,6 +20092,7 @@ td.team-leader__avg {
 /* Player Heading */
 .player-heading {
   background-color: #362b45;
+  background-image: url("../../images/football/player-page-heading.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 50%;
@@ -28340,6 +28346,7 @@ td.team-leader__avg {
 }
 
 .modal--login .modal-account__item--logo {
+  background-image: url("../../images/soccer/samples/login_register_bg.jpg");
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-size: cover;
