@@ -1,12 +1,27 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+    <div class="site-wrapper clearfix">
+      <div class="site-overlay"></div>
+      <NavBar></NavBar>
+      <div class="site-content">
+        <div class="container">
+          <router-view />
+        </div>
+      </div>
     </div>
-    <router-view/>
   </div>
 </template>
+<script>
+// @ is an alias to /src
+import NavBar from "./components/NavBar.vue";
+
+export default {
+  name: "App",
+  components: {
+    NavBar,
+  },
+};
+</script>
 
 <style>
 #app {
