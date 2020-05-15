@@ -43,7 +43,7 @@
 						<!-- Account Navigation -->
 						<ul class="nav-account">
 							<li class="nav-account__item"><a href="">Your Account</a></li>
-							<li class="nav-account__item nav-account__item--login"><a href="">Login</a></li>
+							<li class="nav-account__item nav-account__item--login"><router-link to="/login">Login</router-link></li>
 						</ul>
 						<!-- Account Navigation / End -->
 						</ul>
